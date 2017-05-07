@@ -1,0 +1,5 @@
+C:\Users\joshj\Dropbox\Portfolio\LineProcessor\LineProcessorLibrary\bin\Debug\LineProcessorLibrary.dll
+C:\Users\joshj\Dropbox\Portfolio\LineProcessor\LineProcessorLibrary\bin\Debug\LineProcessorLibrary.pdb
+C:\Users\joshj\Dropbox\Portfolio\LineProcessor\LineProcessorLibrary\obj\Debug\LineProcessorLibrary.csprojResolveAssemblyReference.cache
+C:\Users\joshj\Dropbox\Portfolio\LineProcessor\LineProcessorLibrary\obj\Debug\LineProcessorLibrary.dll
+C:\Users\joshj\Dropbox\Portfolio\LineProcessor\LineProcessorLibrary\obj\Debug\LineProcessorLibrary.pdb
