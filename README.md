@@ -7,7 +7,7 @@ The problem the code solved this time was I needed to change 20 lines of 20 numb
 This is probably my most re-referenced code I've ever written.</br>
 Isn't any special or fancy, but it has saved me a huge amount of manual labor in many situtations.</br>
 </br>
-I've used it previously to run over around billion lines of data, primarily to strip out usful info (Text netflow data for those interested)</br>
+I've used it previously to run over around billion lines of data, primarily to strip out useful info from input files (Text netflow data for those interested)</br>
 Instead of reading the whole file in at once, it streams the file through, and streams into the output text file (buffers a set number of lines at a time to not waste IO)</br>
 Reading the file line by line allows me to load those massive 500MB text files from Netflow</br>
 </br>
